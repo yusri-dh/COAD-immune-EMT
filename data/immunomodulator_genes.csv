@@ -1,0 +1,79 @@
+Gene,"HGNC Symbol","Friendly Name","Entrez ID","Gene Family","Super Category","Immune Checkpoint",Function
+ADORA2A,ADORA2A,ADORA2A,135,Receptor,Receptor,Inhibitory,
+ARG1,ARG1,ARG1,383,Enzyme,Other,Inhibitory,"Immune suppression"
+BTLA,BTLA,BTLA,151888,Immunoglobulin,Receptor,Inhibitory,
+BTN3A1,BTN3A1,BTN3A1,11119,Butyrophilins,Co-inhibitor,Stimulatory,"Activation of γδ T cells"
+BTN3A2,BTN3A2,BTN3A2,11118,Butyrophilins,Co-inhibitor,Stimulatory,"Higher expression leads to increased CD4+ infiltration"
+"CCL5 (RANTES)",CCL5,RANTES,6352,Chemokine,Ligand,Stimulatory,
+"CD27 (TNFRSF7)",CD27,CD27,939,TNFR,Receptor,Stimulatory,
+"CD274 (PD-L1)",CD274,PD-L1,29126,B7/CD28,Co-inhibitor,Inhibitory,
+"CD276 (B7-H3)",CD276,CD276,80381,B7/CD28,Co-inhibitor,Inhibitory,
+CD28,CD28,CD28,940,B7/CD28,Co-stimulator,Stimulatory,
+CD40,CD40,CD40,958,TNFR,Receptor,Stimulatory,
+CD40LG,CD40LG,CD40LG,959,TNF,Ligand,Stimulatory,
+CD70,CD70,CD70,970,TNF,Ligand,Stimulatory,
+"CD80 (B7-1)",CD80,CD80,941,B7/CD28,Co-stimulator,Stimulatory,"T cell activation"
+CTLA4,CTLA4,CTLA4,1493,Receptor,Receptor,Inhibitory,
+CX3CL1,CX3CL1,CX3CL1,6376,"CXC chemokine",Ligand,Stimulatory,
+"CXCL10 (IP-10)",CXCL10,IP-10,3627,"CXC chemokine",Ligand,Stimulatory,
+CXCL9,CXCL9,CXCL9,4283,"CXC chemokine",Ligand,Stimulatory,
+EDNRB,EDNRB,EDNRB,1910,Receptor,Receptor,Inhibitory,"Suppress T cell adhesion and homing"
+ENTPD1,ENTPD1,ENTPD1,953,Ectonucleotidase,Other,Inhibitory,"Immune suppression"
+GZMA,GZMA,GZMA,3001,Granzyme,Other,Stimulatory,Granzyme
+"HAVCR2 (TIM-3)",HAVCR2,TIM-3,84868,Immunoglobulin,Receptor,Inhibitory,
+HLA-A,HLA-A,HLA-A,3105,"MHC Class I","Antigen presentation",,"MHC Class I"
+HLA-B,HLA-B,HLA-B,3106,"MHC Class I","Antigen presentation",,"MHC Class I"
+HLA-C,HLA-C,HLA-C,3107,"MHC Class I","Antigen presentation",,"MHC Class I"
+HLA-DPA1,HLA-DPA1,HLA-DPA1,3113,"MHC Class II","Antigen presentation",,"MHC Class II"
+HLA-DPB1,HLA-DPB1,HLA-DPB1,3115,"MHC Class II","Antigen presentation",,"MHC Class II"
+HLA-DQA1,HLA-DQA1,HLA-DQA1,3117,"MHC Class II","Antigen presentation",,"MHC Class II"
+HLA-DQA2,HLA-DQA2,HLA-DQA2,3118,"MHC Class II","Antigen presentation",,"MHC Class II"
+HLA-DQB1,HLA-DQB1,HLA-DQB1,3119,"MHC Class II","Antigen presentation",,"MHC Class II"
+HLA-DQB2,HLA-DQB2,HLA-DQB2,3120,"MHC Class II","Antigen presentation",,"MHC Class II"
+HLA-DRA,HLA-DRA,HLA-DRA,3122,"MHC Class II","Antigen presentation",,"MHC Class II"
+HLA-DRB1,HLA-DRB1,HLA-DRB1,3123,"MHC Class II","Antigen presentation",,"MHC Class II"
+HLA-DRB3,HLA-DRB3,HLA-DRB3,3125,"MHC Class II","Antigen presentation",,"MHC Class II"
+HLA-DRB4,HLA-DRB4,HLA-DRB4,3126,"MHC Class II","Antigen presentation",,"MHC Class II"
+HLA-DRB5,HLA-DRB5,HLA-DRB5,3127,"MHC Class II","Antigen presentation",,"MHC Class II"
+HMGB1,HMGB1,HMGB1,3146,HMG-box,Other,Stimulatory,
+ICAM1,ICAM1,ICAM1,3383,,"Cell adhesion",Stimulatory,
+ICOS,ICOS,ICOS,29851,B7/CD28,Receptor,Stimulatory,
+"ICOSLG (B7-H2)",ICOSLG,ICOSLG,23308,Ligand,Co-stimulator,Stimulatory,
+IDO1,IDO1,IDO1,3620,Enzyme,Other,Inhibitory,
+IFNA1,IFNA1,IFNA1,3439,Cytokine,Ligand,Stimulatory,
+IFNA2,IFNA2,IFNA2,3440,Cytokine,Ligand,Stimulatory,
+IFNG,IFNG,IFNG,3458,Cytokine,Ligand,Stimulatory,
+IL10,IL10,IL10,3586,Cytokine,Ligand,Inhibitory,"Anti-inflammatory cytokine"
+IL12,IL12A,IL12,3592,Cytokine,Ligand,Stimulatory,
+IL13,IL13,IL13,3596,Cytokine,Ligand,Inhibitory,"Anti-inflammatory cytokine"
+IL1A,IL1A,IL1A,3552,Cytokine,Ligand,Stimulatory,
+IL1B,IL1B,IL1B,3553,Cytokine,Ligand,Stimulatory,
+IL2,IL2,IL2,3558,Cytokine,Ligand,Stimulatory,
+"IL2RA (CD122)",IL2RA,IL2RA,3559,"Type I cytokine receptor",Receptor,Stimulatory,
+IL4,IL4,IL4,3565,Cytokine,Ligand,Inhibitory,"Differentiation of Th0 to Th2"
+"ITGB2 (LFA1)",ITGB2,ITGB2,3689,Integrin,"Cell adhesion",Stimulatory,
+KIR2DL1,KIR2DL1,KIR2DL1,3802,KIR,Receptor,Inhibitory,
+KIR2DL2,KIR2DL2,KIR2DL2,3803,KIR,Receptor,Inhibitory,
+KIR2DL3,KIR2DL3,KIR2DL3,3804,KIR,Receptor,Inhibitory,
+LAG3,LAG3,LAG3,3902,Immunoglobulin,Receptor,Inhibitory,
+MICA,MICA,MICA,100507436,"MHC Class I","Antigen presentation",,"Immune suppression"
+MICB,MICB,MICB,4277,"MHC Class I","Antigen presentation",,"Immune suppression"
+"PDCD1 (PD-1)",PDCD1,PD-1,5133,B7/CD28,Receptor,Inhibitory,
+"PDCD1LG2 (PD-L2, CD273, B7-DC)",PDCD1LG2,PD-L2,80380,B7/CD28,Co-inhibitor,,"Immune suppression"
+PRF1,PRF1,PRF1,5551,Pore,Other,Stimulatory,"Allows infiltration by granzymes"
+SELP,SELP,SELP,6403,Selectin,"Cell adhesion",Stimulatory,
+SLAMF7,SLAMF7,SLAMF7,57823,SLAM,Co-inhibitor,Inhibitory,Inhibitory
+TGFB1,TGFB1,TGFB1,7040,Cytokine,Ligand,Inhibitory,"Immune suppression"
+TIGIT,TIGIT,TIGIT,201633,PVR,Receptor,Inhibitory,
+TLR4,TLR4,TLR4,7099,Receptor,Receptor,Stimulatory,
+TNFA,TNF,TNF,7124,Cytokine,Ligand,Stimulatory,
+"TNFRSF14 (HVEM)",TNFRSF14,HVEM,8764,TNFR,Receptor,Stimulatory,
+"TNFRSF18 (CD357, GITR)",TNFRSF18,TNFRSF18,8784,TNFR,Receptor,Stimulatory,
+"TNFRSF4 (CD134,OX40)",TNFRSF4,OX40,7293,TNFR,Receptor,Stimulatory,
+"TNFRSF9 (CD137, 4-1BB)",TNFRSF9,4-1BB,3604,TNFR,Receptor,Stimulatory,
+"TNFSF4 (OX40L)",TNFSF4,OX40L,7292,TNF,Ligand,Stimulatory,
+"TNFSF9 (CD137L, 4-1BB-L)",TNFSF9," 4-1BB-L",8744,TNF,Ligand,Stimulatory,
+VEGFA,VEGFA,VEGFA,7422,"Growth factor",Ligand,Inhibitory,"Immune suppressor"
+VEGFB,VEGFB,VEGFB,7423,"Growth factor",Ligand,Inhibitory,"Immune suppressor"
+"VISTA (B7-H5)",C10orf54,VISTA,64115,Immunoglobulin,Co-inhibitor,Inhibitory,
+"VTCN1 (B7-H4)",VTCN1,VTCN1,79679,B7/CD28,Co-inhibitor,Inhibitory,
